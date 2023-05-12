@@ -161,3 +161,12 @@ cython_debug/
 
 # Project specific
 outdir*
+# result/samples files
+*.dat
+*.h5
+*.hdf5
+*.npz
+# skymaps
+*.fits
+*.obj
+*.tar.gz

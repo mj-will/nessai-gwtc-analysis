@@ -166,6 +166,7 @@ outdir*
 *.h5
 *.hdf5
 *.npz
+results/
 # skymaps
 *.fits
 *.obj

@@ -170,3 +170,5 @@ outdir*
 *.fits
 *.obj
 *.tar.gz
+# data
+*.gwf

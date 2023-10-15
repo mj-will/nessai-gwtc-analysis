@@ -1,0 +1,1 @@
+Based on ini files from: https://git.ligo.org/publications/O2/cbc-catalog/-/wikis/Review

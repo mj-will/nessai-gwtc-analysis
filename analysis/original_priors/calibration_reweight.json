@@ -1,0 +1,6 @@
+{
+    "likelihood-type": "bilby.gw.likelihood.GravitationalWaveTransient",
+    "frequency-domain-source-model": "bilby.gw.source.lal_binary_black_hole",
+    "calibration-marginalization": true,
+    "calibration-model": "CubicSpline"
+}
